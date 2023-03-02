@@ -432,10 +432,10 @@ function echarts_map() {
                             92.0
                         ]
                     },
-                    {
-                        "name": "\u4e2d\u536b",
-                        "value": 74.0
-                    },
+//                    {
+//                        "name": "\u4e2d\u536b",
+//                        "value": 74.0
+//                    },
                     {
                         "name": "\u4e2d\u5c71",
                         "value": [
@@ -444,10 +444,10 @@ function echarts_map() {
                             49.285
                         ]
                     },
-                    {
-                        "name": "\u4e34\u590f\u5dde",
-                        "value": 70.5
-                    },
+//                    {
+//                        "name": "\u4e34\u590f\u5dde",
+//                        "value": 70.5
+//                    },
                     {
                         "name": "\u4e34\u5b89",
                         "value": [
@@ -472,10 +472,10 @@ function echarts_map() {
                             99.0
                         ]
                     },
-                    {
-                        "name": "\u4e34\u6ca7",
-                        "value": 48.24
-                    },
+//                    {
+//                        "name": "\u4e34\u6ca7",
+//                        "value": 48.24
+//                    },
                     {
                         "name": "\u4e39\u4e1c",
                         "value": [
@@ -492,10 +492,10 @@ function echarts_map() {
                             55.0
                         ]
                     },
-                    {
-                        "name": "\u4e3d\u6c5f",
-                        "value": 46.0
-                    },
+//                    {
+//                        "name": "\u4e3d\u6c5f",
+//                        "value": 46.0
+//                    },
                     {
                         "name": "\u4e49\u4e4c",
                         "value": [
@@ -504,10 +504,10 @@ function echarts_map() {
                             67.1025
                         ]
                     },
-                    {
-                        "name": "\u4e4c\u5170\u5bdf\u5e03",
-                        "value": 57.0
-                    },
+//                    {
+//                        "name": "\u4e4c\u5170\u5bdf\u5e03",
+//                        "value": 57.0
+//                    },
                     {
                         "name": "\u4e4c\u6d77",
                         "value": [
@@ -556,10 +556,10 @@ function echarts_map() {
                             52.0
                         ]
                     },
-                    {
-                        "name": "\u4e94\u5bb6\u6e20",
-                        "value": 94.235
-                    },
+//                    {
+//                        "name": "\u4e94\u5bb6\u6e20",
+//                        "value": 94.235
+//                    },
                     {
                         "name": "\u4eb3\u5dde",
                         "value": [
@@ -576,10 +576,10 @@ function echarts_map() {
                             48.1075
                         ]
                     },
-                    {
-                        "name": "\u4f0a\u7281\u54c8\u8428\u514b\u5dde",
-                        "value": 61.5
-                    },
+//                    {
+//                        "name": "\u4f0a\u7281\u54c8\u8428\u514b\u5dde",
+//                        "value": 61.5
+//                    },
                     {
                         "name": "\u4f5b\u5c71",
                         "value": [
@@ -620,10 +620,10 @@ function echarts_map() {
                             74.0
                         ]
                     },
-                    {
-                        "name": "\u514b\u5b5c\u52d2\u82cf\u5dde",
-                        "value": 112.5
-                    },
+//                    {
+//                        "name": "\u514b\u5b5c\u52d2\u82cf\u5dde",
+//                        "value": 112.5
+//                    },
                     {
                         "name": "\u514b\u62c9\u739b\u4f9d",
                         "value": [
@@ -656,10 +656,10 @@ function echarts_map() {
                             82.5
                         ]
                     },
-                    {
-                        "name": "\u5174\u5b89\u76df",
-                        "value": 53.0
-                    },
+//                    {
+//                        "name": "\u5174\u5b89\u76df",
+//                        "value": 53.0
+//                    },
                     {
                         "name": "\u5185\u6c5f",
                         "value": [
@@ -668,10 +668,10 @@ function echarts_map() {
                             72.0
                         ]
                     },
-                    {
-                        "name": "\u51c9\u5c71\u5dde",
-                        "value": 51.0
-                    },
+//                    {
+//                        "name": "\u51c9\u5c71\u5dde",
+//                        "value": 51.0
+//                    },
                     {
                         "name": "\u5305\u5934",
                         "value": [
@@ -760,10 +760,10 @@ function echarts_map() {
                             83.0
                         ]
                     },
-                    {
-                        "name": "\u535a\u5dde",
-                        "value": 60.5225
-                    },
+//                    {
+//                        "name": "\u535a\u5dde",
+//                        "value": 60.5225
+//                    },
                     {
                         "name": "\u5373\u58a8",
                         "value": [
@@ -828,14 +828,14 @@ function echarts_map() {
                             69.5
                         ]
                     },
-                    {
-                        "name": "\u5410\u9c81\u756a\u5730\u533a",
-                        "value": 125.5625
-                    },
-                    {
-                        "name": "\u5415\u6881",
-                        "value": 74.0
-                    },
+//                    {
+//                        "name": "\u5410\u9c81\u756a\u5730\u533a",
+//                        "value": 125.5625
+//                    },
+//                    {
+//                        "name": "\u5415\u6881",
+//                        "value": 74.0
+//                    },
                     {
                         "name": "\u5434\u5fe0",
                         "value": [
@@ -860,10 +860,10 @@ function echarts_map() {
                             85.0
                         ]
                     },
-                    {
-                        "name": "\u547c\u4f26\u8d1d\u5c14",
-                        "value": 53.0
-                    },
+//                    {
+//                        "name": "\u547c\u4f26\u8d1d\u5c14",
+//                        "value": 53.0
+//                    },
                     {
                         "name": "\u547c\u548c\u6d69\u7279",
                         "value": [
@@ -872,10 +872,10 @@ function echarts_map() {
                             74.0
                         ]
                     },
-                    {
-                        "name": "\u548c\u7530\u5730\u533a",
-                        "value": 117.9075
-                    },
+//                    {
+//                        "name": "\u548c\u7530\u5730\u533a",
+//                        "value": 117.9075
+//                    },
                     {
                         "name": "\u54b8\u5b81",
                         "value": [
@@ -892,10 +892,10 @@ function echarts_map() {
                             100.0
                         ]
                     },
-                    {
-                        "name": "\u54c8\u5bc6\u5730\u533a",
-                        "value": 70.35
-                    },
+//                    {
+//                        "name": "\u54c8\u5bc6\u5730\u533a",
+//                        "value": 70.35
+//                    },
                     {
                         "name": "\u54c8\u5c14\u6ee8",
                         "value": [
@@ -920,14 +920,14 @@ function echarts_map() {
                             85.0
                         ]
                     },
-                    {
-                        "name": "\u5546\u6d1b",
-                        "value": 70.5
-                    },
-                    {
-                        "name": "\u5580\u4ec0\u5730\u533a",
-                        "value": 146.435
-                    },
+//                    {
+//                        "name": "\u5546\u6d1b",
+//                        "value": 70.5
+//                    },
+//                    {
+//                        "name": "\u5580\u4ec0\u5730\u533a",
+//                        "value": 146.435
+//                    },
                     {
                         "name": "\u5609\u5174",
                         "value": [
@@ -952,18 +952,18 @@ function echarts_map() {
                             69.5
                         ]
                     },
-                    {
-                        "name": "\u56fa\u539f",
-                        "value": 70.68
-                    },
-                    {
-                        "name": "\u5854\u57ce\u5730\u533a",
-                        "value": 48.1325
-                    },
-                    {
-                        "name": "\u5927\u5174\u5b89\u5cad\u5730\u533a",
-                        "value": 48.1075
-                    },
+//                    {
+//                        "name": "\u56fa\u539f",
+//                        "value": 70.68
+//                    },
+//                    {
+//                        "name": "\u5854\u57ce\u5730\u533a",
+//                        "value": 48.1325
+//                    },
+//                    {
+//                        "name": "\u5927\u5174\u5b89\u5cad\u5730\u533a",
+//                        "value": 48.1075
+//                    },
                     {
                         "name": "\u5927\u540c",
                         "value": [
@@ -980,10 +980,10 @@ function echarts_map() {
                             55.0
                         ]
                     },
-                    {
-                        "name": "\u5927\u7406\u5dde",
-                        "value": 48.7125
-                    },
+//                    {
+//                        "name": "\u5927\u7406\u5dde",
+//                        "value": 48.7125
+//                    },
                     {
                         "name": "\u5927\u8fde",
                         "value": [
@@ -1096,10 +1096,10 @@ function echarts_map() {
                             48.0
                         ]
                     },
-                    {
-                        "name": "\u5b9a\u897f",
-                        "value": 70.5
-                    },
+//                    {
+//                        "name": "\u5b9a\u897f",
+//                        "value": 70.5
+//                    },
                     {
                         "name": "\u5b9c\u5174",
                         "value": [
@@ -1140,10 +1140,10 @@ function echarts_map() {
                             84.0
                         ]
                     },
-                    {
-                        "name": "\u5ba3\u57ce",
-                        "value": 68.3475
-                    },
+//                    {
+//                        "name": "\u5ba3\u57ce",
+//                        "value": 68.3475
+//                    },
                     {
                         "name": "\u5bbf\u5dde",
                         "value": [
@@ -1176,10 +1176,10 @@ function echarts_map() {
                             99.0
                         ]
                     },
-                    {
-                        "name": "\u5c71\u5357",
-                        "value": 74.45
-                    },
+//                    {
+//                        "name": "\u5c71\u5357",
+//                        "value": 74.45
+//                    },
                     {
                         "name": "\u5cb3\u9633",
                         "value": [
@@ -1188,10 +1188,10 @@ function echarts_map() {
                             69.67
                         ]
                     },
-                    {
-                        "name": "\u5d07\u5de6",
-                        "value": 53.0
-                    },
+//                    {
+//                        "name": "\u5d07\u5de6",
+//                        "value": 53.0
+//                    },
                     {
                         "name": "\u5df4\u4e2d",
                         "value": [
@@ -1200,10 +1200,10 @@ function echarts_map() {
                             54.2775
                         ]
                     },
-                    {
-                        "name": "\u5df4\u5f66\u6dd6\u5c14",
-                        "value": 70.5
-                    },
+//                    {
+//                        "name": "\u5df4\u5f66\u6dd6\u5c14",
+//                        "value": 70.5
+//                    },
                     {
                         "name": "\u5e38\u5dde",
                         "value": [
@@ -1260,10 +1260,10 @@ function echarts_map() {
                             56.0
                         ]
                     },
-                    {
-                        "name": "\u5e7f\u5b89",
-                        "value": 61.5
-                    },
+//                    {
+//                        "name": "\u5e7f\u5b89",
+//                        "value": 61.5
+//                    },
                     {
                         "name": "\u5e7f\u5dde",
                         "value": [
@@ -1272,10 +1272,10 @@ function echarts_map() {
                             55.0
                         ]
                     },
-                    {
-                        "name": "\u5e86\u9633",
-                        "value": 62.475
-                    },
+//                    {
+//                        "name": "\u5e86\u9633",
+//                        "value": 62.475
+//                    },
                     {
                         "name": "\u5e93\u5c14\u52d2",
                         "value": [
@@ -1300,10 +1300,10 @@ function echarts_map() {
                             74.0
                         ]
                     },
-                    {
-                        "name": "\u5ef6\u8fb9\u5dde",
-                        "value": 53.0
-                    },
+//                    {
+//                        "name": "\u5ef6\u8fb9\u5dde",
+//                        "value": 53.0
+//                    },
                     {
                         "name": "\u5f00\u5c01",
                         "value": [
@@ -1352,10 +1352,10 @@ function echarts_map() {
                             89.0
                         ]
                     },
-                    {
-                        "name": "\u5fb7\u5b8f\u5dde",
-                        "value": 53.0
-                    },
+//                    {
+//                        "name": "\u5fb7\u5b8f\u5dde",
+//                        "value": 53.0
+//                    },
                     {
                         "name": "\u5fb7\u5dde",
                         "value": [
@@ -1388,14 +1388,14 @@ function echarts_map() {
                             61.5
                         ]
                     },
-                    {
-                        "name": "\u6012\u6c5f\u5dde",
-                        "value": 48.24
-                    },
-                    {
-                        "name": "\u6069\u65bd\u5dde",
-                        "value": 66.5
-                    },
+//                    {
+//                        "name": "\u6012\u6c5f\u5dde",
+//                        "value": 48.24
+//                    },
+//                    {
+//                        "name": "\u6069\u65bd\u5dde",
+//                        "value": 66.5
+//                    },
                     {
                         "name": "\u60e0\u5dde",
                         "value": [
@@ -1428,10 +1428,10 @@ function echarts_map() {
                             61.5
                         ]
                     },
-                    {
-                        "name": "\u629a\u5dde",
-                        "value": 55.0
-                    },
+//                    {
+//                        "name": "\u629a\u5dde",
+//                        "value": 55.0
+//                    },
                     {
                         "name": "\u629a\u987a",
                         "value": [
@@ -1472,10 +1472,10 @@ function echarts_map() {
                             60.835
                         ]
                     },
-                    {
-                        "name": "\u6587\u5c71\u5dde",
-                        "value": 48.0
-                    },
+//                    {
+//                        "name": "\u6587\u5c71\u5dde",
+//                        "value": 48.0
+//                    },
                     {
                         "name": "\u6587\u767b",
                         "value": [
@@ -1540,14 +1540,14 @@ function echarts_map() {
                             55.0
                         ]
                     },
-                    {
-                        "name": "\u660c\u5409\u5dde",
-                        "value": 79.1225
-                    },
-                    {
-                        "name": "\u660c\u90fd",
-                        "value": 60.0
-                    },
+//                    {
+//                        "name": "\u660c\u5409\u5dde",
+//                        "value": 79.1225
+//                    },
+//                    {
+//                        "name": "\u660c\u90fd",
+//                        "value": 60.0
+//                    },
                     {
                         "name": "\u662d\u901a",
                         "value": [
@@ -1556,10 +1556,10 @@ function echarts_map() {
                             54.2775
                         ]
                     },
-                    {
-                        "name": "\u664b\u4e2d",
-                        "value": 80.0
-                    },
+//                    {
+//                        "name": "\u664b\u4e2d",
+//                        "value": 80.0
+//                    },
                     {
                         "name": "\u664b\u57ce",
                         "value": [
@@ -1568,10 +1568,10 @@ function echarts_map() {
                             84.0
                         ]
                     },
-                    {
-                        "name": "\u666e\u6d31",
-                        "value": 48.0
-                    },
+//                    {
+//                        "name": "\u666e\u6d31",
+//                        "value": 48.0
+//                    },
                     {
                         "name": "\u666f\u5fb7\u9547",
                         "value": [
@@ -1612,10 +1612,10 @@ function echarts_map() {
                             69.54
                         ]
                     },
-                    {
-                        "name": "\u6765\u5bbe",
-                        "value": 55.0
-                    },
+//                    {
+//                        "name": "\u6765\u5bbe",
+//                        "value": 55.0
+//                    },
                     {
                         "name": "\u676d\u5dde",
                         "value": [
@@ -1632,14 +1632,14 @@ function echarts_map() {
                             61.5
                         ]
                     },
-                    {
-                        "name": "\u6797\u829d",
-                        "value": 63.0
-                    },
-                    {
-                        "name": "\u679c\u6d1b\u5dde",
-                        "value": 60.5225
-                    },
+//                    {
+//                        "name": "\u6797\u829d",
+//                        "value": 63.0
+//                    },
+//                    {
+//                        "name": "\u679c\u6d1b\u5dde",
+//                        "value": 60.5225
+//                    },
                     {
                         "name": "\u67a3\u5e84",
                         "value": [
@@ -1688,10 +1688,10 @@ function echarts_map() {
                             55.0
                         ]
                     },
-                    {
-                        "name": "\u695a\u96c4\u5dde",
-                        "value": 48.1075
-                    },
+//                    {
+//                        "name": "\u695a\u96c4\u5dde",
+//                        "value": 48.1075
+//                    },
                     {
                         "name": "\u6986\u6797",
                         "value": [
@@ -1772,10 +1772,10 @@ function echarts_map() {
                             87.15
                         ]
                     },
-                    {
-                        "name": "\u6c60\u5dde",
-                        "value": 67.0625
-                    },
+//                    {
+//                        "name": "\u6c60\u5dde",
+//                        "value": 67.0625
+//                    },
                     {
                         "name": "\u6c88\u9633",
                         "value": [
@@ -1864,18 +1864,18 @@ function echarts_map() {
                             99.0
                         ]
                     },
-                    {
-                        "name": "\u6d77\u4e1c\u5730\u533a",
-                        "value": 74.0
-                    },
-                    {
-                        "name": "\u6d77\u5317\u5dde",
-                        "value": 60.5225
-                    },
-                    {
-                        "name": "\u6d77\u5357\u5dde",
-                        "value": 60.355
-                    },
+//                    {
+//                        "name": "\u6d77\u4e1c\u5730\u533a",
+//                        "value": 74.0
+//                    },
+//                    {
+//                        "name": "\u6d77\u5317\u5dde",
+//                        "value": 60.5225
+//                    },
+//                    {
+//                        "name": "\u6d77\u5357\u5dde",
+//                        "value": 60.355
+//                    },
                     {
                         "name": "\u6d77\u53e3",
                         "value": [
@@ -1884,10 +1884,10 @@ function echarts_map() {
                             39.5
                         ]
                     },
-                    {
-                        "name": "\u6d77\u897f\u5dde",
-                        "value": 60.5225
-                    },
+//                    {
+//                        "name": "\u6d77\u897f\u5dde",
+//                        "value": 60.5225
+//                    },
                     {
                         "name": "\u6d77\u95e8",
                         "value": [
@@ -1976,10 +1976,10 @@ function echarts_map() {
                             79.1225
                         ]
                     },
-                    {
-                        "name": "\u6e58\u897f\u5dde",
-                        "value": 61.5
-                    },
+//                    {
+//                        "name": "\u6e58\u897f\u5dde",
+//                        "value": 61.5
+//                    },
                     {
                         "name": "\u6e5b\u6c5f",
                         "value": [
@@ -2084,10 +2084,10 @@ function echarts_map() {
                             55.0
                         ]
                     },
-                    {
-                        "name": "\u7389\u6811\u5dde",
-                        "value": 48.0
-                    },
+//                    {
+//                        "name": "\u7389\u6811\u5dde",
+//                        "value": 48.0
+//                    },
                     {
                         "name": "\u7389\u6eaa",
                         "value": [
@@ -2112,14 +2112,14 @@ function echarts_map() {
                             72.0
                         ]
                     },
-                    {
-                        "name": "\u7518\u5357\u5dde",
-                        "value": 70.5
-                    },
-                    {
-                        "name": "\u7518\u5b5c\u5dde",
-                        "value": 39.0
-                    },
+//                    {
+//                        "name": "\u7518\u5357\u5dde",
+//                        "value": 70.5
+//                    },
+//                    {
+//                        "name": "\u7518\u5b5c\u5dde",
+//                        "value": 39.0
+//                    },
                     {
                         "name": "\u767d\u57ce",
                         "value": [
@@ -2176,10 +2176,10 @@ function echarts_map() {
                             68.6025
                         ]
                     },
-                    {
-                        "name": "\u7709\u5c71",
-                        "value": 75.0
-                    },
+//                    {
+//                        "name": "\u7709\u5c71",
+//                        "value": 75.0
+//                    },
                     {
                         "name": "\u77f3\u5634\u5c71",
                         "value": [
@@ -2228,10 +2228,10 @@ function echarts_map() {
                             85.0
                         ]
                     },
-                    {
-                        "name": "\u7ea2\u6cb3\u5dde",
-                        "value": 55.0
-                    },
+//                    {
+//                        "name": "\u7ea2\u6cb3\u5dde",
+//                        "value": 55.0
+//                    },
                     {
                         "name": "\u7ecd\u5174",
                         "value": [
@@ -2456,14 +2456,14 @@ function echarts_map() {
                             66.5
                         ]
                     },
-                    {
-                        "name": "\u8944\u9633",
-                        "value": 89.555
-                    },
-                    {
-                        "name": "\u897f\u53cc\u7248\u7eb3\u5dde",
-                        "value": 53.0
-                    },
+//                    {
+//                        "name": "\u8944\u9633",
+//                        "value": 89.555
+//                    },
+//                    {
+//                        "name": "\u897f\u53cc\u7248\u7eb3\u5dde",
+//                        "value": 53.0
+//                    },
                     {
                         "name": "\u897f\u5b81",
                         "value": [
@@ -2512,10 +2512,10 @@ function echarts_map() {
                             55.0
                         ]
                     },
-                    {
-                        "name": "\u8d3a\u5dde",
-                        "value": 55.0
-                    },
+//                    {
+//                        "name": "\u8d3a\u5dde",
+//                        "value": 55.0
+//                    },
                     {
                         "name": "\u8d44\u9633",
                         "value": [
@@ -2556,10 +2556,10 @@ function echarts_map() {
                             69.0975
                         ]
                     },
-                    {
-                        "name": "\u8fbe\u5dde",
-                        "value": 75.0
-                    },
+//                    {
+//                        "name": "\u8fbe\u5dde",
+//                        "value": 75.0
+//                    },
                     {
                         "name": "\u8fd0\u57ce",
                         "value": [
@@ -2576,10 +2576,10 @@ function echarts_map() {
                             74.0
                         ]
                     },
-                    {
-                        "name": "\u8fea\u5e86\u5dde",
-                        "value": 39.0
-                    },
+//                    {
+//                        "name": "\u8fea\u5e86\u5dde",
+//                        "value": 39.0
+//                    },
                     {
                         "name": "\u901a\u5316",
                         "value": [
@@ -2620,10 +2620,10 @@ function echarts_map() {
                             124.6325
                         ]
                     },
-                    {
-                        "name": "\u90a3\u66f2\u5730\u533a",
-                        "value": 78.5
-                    },
+//                    {
+//                        "name": "\u90a3\u66f2\u5730\u533a",
+//                        "value": 78.5
+//                    },
                     {
                         "name": "\u90af\u90f8",
                         "value": [
@@ -2728,10 +2728,10 @@ function echarts_map() {
                             69.5
                         ]
                     },
-                    {
-                        "name": "\u94dc\u4ec1\u5730\u533a",
-                        "value": 57.0
-                    },
+//                    {
+//                        "name": "\u94dc\u4ec1\u5730\u533a",
+//                        "value": 57.0
+//                    },
                     {
                         "name": "\u94dc\u5ddd",
                         "value": [
@@ -2756,10 +2756,10 @@ function echarts_map() {
                             78.5
                         ]
                     },
-                    {
-                        "name": "\u9521\u6797\u90ed\u52d2\u76df",
-                        "value": 48.1075
-                    },
+//                    {
+//                        "name": "\u9521\u6797\u90ed\u52d2\u76df",
+//                        "value": 48.1075
+//                    },
                     {
                         "name": "\u9526\u5dde",
                         "value": [
@@ -2840,30 +2840,30 @@ function echarts_map() {
                             84.0
                         ]
                     },
-                    {
-                        "name": "\u963f\u514b\u82cf\u5730\u533a",
-                        "value": 99.0
-                    },
-                    {
-                        "name": "\u963f\u52d2\u6cf0\u5730\u533a",
-                        "value": 47.7425
-                    },
-                    {
-                        "name": "\u963f\u575d\u5dde",
-                        "value": 41.33
-                    },
-                    {
-                        "name": "\u963f\u62c9\u5584\u76df",
-                        "value": 63.0
-                    },
-                    {
-                        "name": "\u963f\u91cc\u5730\u533a",
-                        "value": 44.0
-                    },
-                    {
-                        "name": "\u9647\u5357",
-                        "value": 57.0
-                    },
+//                    {
+//                        "name": "\u963f\u514b\u82cf\u5730\u533a",
+//                        "value": 99.0
+//                    },
+//                    {
+//                        "name": "\u963f\u52d2\u6cf0\u5730\u533a",
+//                        "value": 47.7425
+//                    },
+//                    {
+//                        "name": "\u963f\u575d\u5dde",
+//                        "value": 41.33
+//                    },
+//                    {
+//                        "name": "\u963f\u62c9\u5584\u76df",
+//                        "value": 63.0
+//                    },
+//                    {
+//                        "name": "\u963f\u91cc\u5730\u533a",
+//                        "value": 44.0
+//                    },
+//                    {
+//                        "name": "\u9647\u5357",
+//                        "value": 57.0
+//                    },
                     {
                         "name": "\u968f\u5dde",
                         "value": [
@@ -2952,14 +2952,14 @@ function echarts_map() {
                             55.0
                         ]
                     },
-                    {
-                        "name": "\u9ec4\u5188",
-                        "value": 69.5
-                    },
-                    {
-                        "name": "\u9ec4\u5357\u5dde",
-                        "value": 70.5
-                    },
+//                    {
+//                        "name": "\u9ec4\u5188",
+//                        "value": 69.5
+//                    },
+//                    {
+//                        "name": "\u9ec4\u5357\u5dde",
+//                        "value": 70.5
+//                    },
                     {
                         "name": "\u9ec4\u5c71",
                         "value": [
@@ -2984,18 +2984,18 @@ function echarts_map() {
                             48.0
                         ]
                     },
-                    {
-                        "name": "\u9ed4\u4e1c\u5357\u5dde",
-                        "value": 48.1075
-                    },
-                    {
-                        "name": "\u9ed4\u5357\u5dde",
-                        "value": 48.1075
-                    },
-                    {
-                        "name": "\u9ed4\u897f\u5357\u5dde",
-                        "value": 39.5
-                    },
+//                    {
+//                        "name": "\u9ed4\u4e1c\u5357\u5dde",
+//                        "value": 48.1075
+//                    },
+//                    {
+//                        "name": "\u9ed4\u5357\u5dde",
+//                        "value": 48.1075
+//                    },
+//                    {
+//                        "name": "\u9ed4\u897f\u5357\u5dde",
+//                        "value": 39.5
+//                    },
                     {
                         "name": "\u9f50\u9f50\u54c8\u5c14",
                         "value": [
